@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module AirTicketPrototypeTesting {
+	requires junit;
+}
